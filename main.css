@@ -1,0 +1,16 @@
+html {
+  text-align: center;
+  background-color: aquamarine;
+}
+
+body {
+  display: inline-block;
+  border: 3px dotted red;
+  border-radius: 45px;
+  padding: 30px;
+}
+
+h3 { 
+  font-size: 40px;
+  font-style: italic;
+}
